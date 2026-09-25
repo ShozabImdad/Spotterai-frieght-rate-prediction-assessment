@@ -1,0 +1,15 @@
+{
+  "training_rows": 48000,
+  "corrupted_labels_removed": 677,
+  "annual_trend_log": 0.0787,
+  "validation_prediction_stats": {
+    "count": 12000.0,
+    "mean": 2389.39,
+    "std": 1380.27,
+    "min": 204.74,
+    "25%": 1288.55,
+    "50%": 2060.28,
+    "75%": 3395.28,
+    "max": 6900.5
+  }
+}

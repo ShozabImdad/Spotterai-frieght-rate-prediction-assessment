@@ -1,0 +1,9 @@
+subset,model,MAE,RMSE,MAPE,MedAPE
+all,lightgbm,104.64,625.96,4.66,1.79
+all,lightgbm_no_trend,135.64,634.7,6.05,3.4
+all,log_linear,117.84,628.25,5.42,2.51
+all,rate_per_mile_baseline,233.26,669.54,10.49,6.95
+clean,lightgbm,50.82,76.28,2.18,1.77
+clean,lightgbm_no_trend,82.27,108.87,3.67,3.36
+clean,log_linear,64.11,89.15,2.94,2.47
+clean,rate_per_mile_baseline,181.41,270.13,8.13,6.82
