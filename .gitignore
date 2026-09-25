@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Assessment data is provided separately and not redistributed.
+data/*
+!data/december_chart_inputs.csv
